@@ -1,0 +1,16 @@
+{
+  "name":"vmasciotta/magento-project-variables-installer",
+  "type":"magento-module",
+  "license":"MIT",
+  "homepage":"http://www.valeriomasciotta.it",
+  "description":"A simple module to let You install variables and blocks permissions",
+  "authors":[
+    {
+      "name":"Valerio Masciotta",
+      "email":"sviluppo@valeriomasciotta.it"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
