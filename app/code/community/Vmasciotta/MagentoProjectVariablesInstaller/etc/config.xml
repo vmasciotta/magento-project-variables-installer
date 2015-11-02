@@ -10,12 +10,7 @@
           <vmasciotta_magentoprojectvariablesinstaller_setup>
               <setup>
                   <module>Vmasciotta_MagentoProjectVariablesInstaller</module>
-
-                  <!-- qui di seguito andrà inserita la classe responsabile dell'installazione
-                Generalmente puoi utilizzare la classe Mage_Core_Model_Resource_Setup oppure utilizzare un model ad hoc come fatto in mage/poll
-                -->
                   <class>Mage_Core_Model_Resource_Setup</class>
-                  <!-- oppure <class>nomemodulo_model</class> come in mage/poll -->
               </setup>
           </vmasciotta_magentoprojectvariablesinstaller_setup>
       </resources>
