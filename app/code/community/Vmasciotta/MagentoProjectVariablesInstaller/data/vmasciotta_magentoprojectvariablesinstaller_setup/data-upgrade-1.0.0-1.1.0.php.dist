@@ -8,7 +8,7 @@ $connection = $this->getConnection();
 //add your blocks here
 $blocksList = [
     //['block_name'=>'page/html','is_allowed'=>1],
-    //['block_name'=>'newsletter/subscribe','is_allowed'=>1]
+    //['block_name'=>'newsletter/subscribe','is_allowed'=>1],
 ];
 
 //add your variables here
